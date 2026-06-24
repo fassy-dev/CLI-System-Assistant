@@ -39,4 +39,4 @@ python main.py
 ## Автор
 
 - **Fassydev** 
-- GitHub: [://github.com](http://://github.com/fassy-dev)
+- GitHub: **[://github.com](http://://github.com/fassy-dev)**
